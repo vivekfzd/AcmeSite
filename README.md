@@ -1,2 +1,2 @@
 # AcmeSite
-I make this site for practise of HTML and CSS command
+I make this site for practise of HTML and CSS commands.
